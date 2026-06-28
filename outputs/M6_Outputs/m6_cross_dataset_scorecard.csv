@@ -1,0 +1,8 @@
+product_category,revenue_m,aov,avg_rating,avg_basket,discount_rate,total_orders,refund_rate_pct,delay_rate_pct,satisfaction_pct,risk_score
+Beverages,32.97,616.75,3.34,10.01,40.0,53463,45.7,13.5,46.7,31.15
+Dairy,33.42,617.32,3.35,10.06,40.0,54138,45.6,13.7,46.5,31.05
+Fruits & Vegetables,33.04,618.45,3.35,10.03,41.0,53426,46.2,13.8,46.1,31.35
+Groceries,33.22,616.85,3.35,9.97,40.0,53854,,,,
+Household,33.14,619.17,3.35,10.01,40.0,53525,,,,
+Personal Care,32.93,615.53,3.35,10.01,40.0,53504,45.5,13.6,47.0,31.0
+Snacks,33.06,615.23,3.35,9.98,40.0,53736,45.2,13.6,46.9,30.85

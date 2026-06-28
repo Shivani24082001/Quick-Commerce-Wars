@@ -1,0 +1,8 @@
+"product_category","total_orders","revenue_m","aov","avg_basket_size","order_share_pct","revenue_share_pct"
+"Dairy",54138,33.42,617.32,10.06,14.41,14.42
+"Groceries",53854,33.22,616.85,9.97,14.34,14.33
+"Household",53525,33.14,619.17,10.01,14.25,14.30
+"Snacks",53736,33.06,615.23,9.98,14.30,14.26
+"Fruits & Vegetables",53426,33.04,618.45,10.03,14.22,14.25
+"Beverages",53463,32.97,616.75,10.01,14.23,14.23
+"Personal Care",53504,32.93,615.53,10.01,14.24,14.21

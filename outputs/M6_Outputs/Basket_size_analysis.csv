@@ -1,0 +1,85 @@
+"product_category","company","basket_size_bucket","orders","pct","avg_order_value"
+"Beverages","Blinkit","Small (1-2 items)",1824,10.15,616.77
+"Beverages","Blinkit","Medium (3-5 items)",2700,15.02,607.16
+"Beverages","Blinkit","Large (6-10 items)",5218,29.03,617.04
+"Beverages","Blinkit","Bulk (10+ items)",8231,45.80,611.46
+"Beverages","Swiggy Instamart","Small (1-2 items)",1809,10.25,650.51
+"Beverages","Swiggy Instamart","Medium (3-5 items)",2755,15.61,657.02
+"Beverages","Swiggy Instamart","Large (6-10 items)",4931,27.94,648.00
+"Beverages","Swiggy Instamart","Bulk (10+ items)",8155,46.20,637.67
+"Beverages","Zepto","Small (1-2 items)",1774,9.94,577.68
+"Beverages","Zepto","Medium (3-5 items)",2710,15.19,602.07
+"Beverages","Zepto","Large (6-10 items)",5185,29.06,587.80
+"Beverages","Zepto","Bulk (10+ items)",8171,45.80,596.01
+"Dairy","Blinkit","Small (1-2 items)",1774,9.92,622.15
+"Dairy","Blinkit","Medium (3-5 items)",2716,15.18,611.52
+"Dairy","Blinkit","Large (6-10 items)",5159,28.84,623.58
+"Dairy","Blinkit","Bulk (10+ items)",8238,46.06,609.46
+"Dairy","Swiggy Instamart","Small (1-2 items)",1785,9.81,643.75
+"Dairy","Swiggy Instamart","Medium (3-5 items)",2728,14.99,654.31
+"Dairy","Swiggy Instamart","Large (6-10 items)",5176,28.45,641.10
+"Dairy","Swiggy Instamart","Bulk (10+ items)",8505,46.75,641.67
+"Dairy","Zepto","Small (1-2 items)",1821,10.08,586.91
+"Dairy","Zepto","Medium (3-5 items)",2759,15.28,596.14
+"Dairy","Zepto","Large (6-10 items)",5145,28.49,589.67
+"Dairy","Zepto","Bulk (10+ items)",8332,46.14,595.39
+"Fruits & Vegetables","Blinkit","Small (1-2 items)",1798,10.07,618.16
+"Fruits & Vegetables","Blinkit","Medium (3-5 items)",2705,15.15,603.26
+"Fruits & Vegetables","Blinkit","Large (6-10 items)",5183,29.03,613.67
+"Fruits & Vegetables","Blinkit","Bulk (10+ items)",8167,45.75,604.58
+"Fruits & Vegetables","Swiggy Instamart","Small (1-2 items)",1802,10.07,653.88
+"Fruits & Vegetables","Swiggy Instamart","Medium (3-5 items)",2772,15.49,646.27
+"Fruits & Vegetables","Swiggy Instamart","Large (6-10 items)",5173,28.91,654.48
+"Fruits & Vegetables","Swiggy Instamart","Bulk (10+ items)",8144,45.52,653.93
+"Fruits & Vegetables","Zepto","Small (1-2 items)",1801,10.19,590.16
+"Fruits & Vegetables","Zepto","Medium (3-5 items)",2623,14.83,597.87
+"Fruits & Vegetables","Zepto","Large (6-10 items)",5061,28.62,585.48
+"Fruits & Vegetables","Zepto","Bulk (10+ items)",8197,46.36,598.31
+"Groceries","Blinkit","Small (1-2 items)",1857,10.30,609.33
+"Groceries","Blinkit","Medium (3-5 items)",2801,15.54,606.20
+"Groceries","Blinkit","Large (6-10 items)",5145,28.54,607.43
+"Groceries","Blinkit","Bulk (10+ items)",8223,45.62,614.25
+"Groceries","Swiggy Instamart","Small (1-2 items)",1814,10.07,651.67
+"Groceries","Swiggy Instamart","Medium (3-5 items)",2733,15.17,630.91
+"Groceries","Swiggy Instamart","Large (6-10 items)",5237,29.07,654.48
+"Groceries","Swiggy Instamart","Bulk (10+ items)",8232,45.69,643.30
+"Groceries","Zepto","Small (1-2 items)",1835,10.30,600.50
+"Groceries","Zepto","Medium (3-5 items)",2774,15.57,601.34
+"Groceries","Zepto","Large (6-10 items)",5153,28.93,597.10
+"Groceries","Zepto","Bulk (10+ items)",8050,45.19,588.54
+"Household","Blinkit","Small (1-2 items)",1798,10.04,607.87
+"Household","Blinkit","Medium (3-5 items)",2722,15.19,612.10
+"Household","Blinkit","Large (6-10 items)",5235,29.22,606.02
+"Household","Blinkit","Bulk (10+ items)",8160,45.55,610.66
+"Household","Swiggy Instamart","Small (1-2 items)",1752,9.79,646.78
+"Household","Swiggy Instamart","Medium (3-5 items)",2711,15.15,652.85
+"Household","Swiggy Instamart","Large (6-10 items)",5204,29.08,650.46
+"Household","Swiggy Instamart","Bulk (10+ items)",8226,45.97,643.82
+"Household","Zepto","Small (1-2 items)",1792,10.11,588.37
+"Household","Zepto","Medium (3-5 items)",2735,15.44,602.72
+"Household","Zepto","Large (6-10 items)",5131,28.96,593.32
+"Household","Zepto","Bulk (10+ items)",8059,45.49,607.44
+"Personal Care","Blinkit","Small (1-2 items)",1814,10.15,599.13
+"Personal Care","Blinkit","Medium (3-5 items)",2653,14.85,620.30
+"Personal Care","Blinkit","Large (6-10 items)",5250,29.39,604.16
+"Personal Care","Blinkit","Bulk (10+ items)",8148,45.61,605.03
+"Personal Care","Swiggy Instamart","Small (1-2 items)",1750,9.93,658.47
+"Personal Care","Swiggy Instamart","Medium (3-5 items)",2647,15.02,649.80
+"Personal Care","Swiggy Instamart","Large (6-10 items)",5131,29.11,653.98
+"Personal Care","Swiggy Instamart","Bulk (10+ items)",8098,45.94,641.51
+"Personal Care","Zepto","Small (1-2 items)",1840,10.21,585.33
+"Personal Care","Zepto","Medium (3-5 items)",2792,15.50,597.80
+"Personal Care","Zepto","Large (6-10 items)",5134,28.50,595.14
+"Personal Care","Zepto","Bulk (10+ items)",8247,45.78,591.11
+"Snacks","Blinkit","Small (1-2 items)",1759,9.80,610.45
+"Snacks","Blinkit","Medium (3-5 items)",2638,14.70,608.68
+"Snacks","Blinkit","Large (6-10 items)",5268,29.36,613.80
+"Snacks","Blinkit","Bulk (10+ items)",8280,46.14,609.41
+"Snacks","Swiggy Instamart","Small (1-2 items)",1822,10.21,624.73
+"Snacks","Swiggy Instamart","Medium (3-5 items)",2758,15.45,645.88
+"Snacks","Swiggy Instamart","Large (6-10 items)",5290,29.64,638.68
+"Snacks","Swiggy Instamart","Bulk (10+ items)",7979,44.70,643.56
+"Snacks","Zepto","Small (1-2 items)",1865,10.39,607.21
+"Snacks","Zepto","Medium (3-5 items)",2719,15.15,585.68
+"Snacks","Zepto","Large (6-10 items)",5262,29.33,592.22
+"Snacks","Zepto","Bulk (10+ items)",8096,45.12,596.19
