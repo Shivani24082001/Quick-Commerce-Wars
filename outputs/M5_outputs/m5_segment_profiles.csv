@@ -1,0 +1,4 @@
+segment_label,orders,avg_order_value,avg_rating,discount_rate_pct,avg_distance,avg_delivery,avg_age,pct_of_total
+At-Risk,115291,524.01,3.32,0.0,4.6,10.08,38.49,30.69
+Loyal Customers,110009,503.77,3.38,0.0,11.03,17.2,38.35,29.29
+Price-Sensitive,150346,771.26,3.35,100.0,7.75,13.55,38.48,40.02

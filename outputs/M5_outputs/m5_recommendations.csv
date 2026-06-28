@@ -1,0 +1,5 @@
+segment_label,description,size_note,strategy,risk,kpi_to_track
+Champions,"High spenders, highly satisfied, low discount dependency",Smallest but most valuable segment,"Reward with early access, premium packaging, loyalty programmes",Any service failure disproportionately damages trust,"Repeat order rate, AOV trend"
+Loyal Customers,"Regular buyers with good ratings, moderate discount usage",Largest segment — the backbone of revenue,"Upsell to higher value categories, reduce discount dependency",Vulnerable to competitor discounts,"Category mix, discount rate over time"
+Price-Sensitive,"High discount usage, lower order values",Large segment — high volume but lower margin,Bundle offers rather than flat discounts to increase basket size,Will switch platforms for a better deal,"Basket size, discount redemption rate"
+At-Risk,"Low ratings, inconsistent ordering, possible churners",Urgent intervention needed,"Proactive outreach, service recovery, refund fast-track",High churn probability — every bad experience accelerates exit,"Churn rate, days since last order, refund rate"

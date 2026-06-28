@@ -1,0 +1,10 @@
+company,segment_label,orders,pct
+Blinkit,At-Risk,34652,27.62
+Blinkit,Loyal Customers,40443,32.23
+Blinkit,Price-Sensitive,50369,40.15
+Swiggy Instamart,At-Risk,32689,26.13
+Swiggy Instamart,Loyal Customers,42744,34.16
+Swiggy Instamart,Price-Sensitive,49686,39.71
+Zepto,At-Risk,47950,38.34
+Zepto,Loyal Customers,26822,21.45
+Zepto,Price-Sensitive,50291,40.21

@@ -1,0 +1,4 @@
+"company","avg_order_value","std_order_value","avg_rating","discount_rate_pct","avg_distance_km","avg_delivery_min","avg_customer_age","disc_aov","full_aov"
+"Blinkit",610.49,402.62,3.56,40.13,7.75,15.07,38.46,761.24,509.43
+"Swiggy Instamart",646.13,429.81,3.29,39.70,7.75,16.02,38.43,807.11,540.16
+"Zepto",594.52,395.56,3.20,40.19,7.74,9.57,38.46,741.04,496.05
