@@ -27,4 +27,12 @@ The analysis covers market share, dark store expansion strategy, customer retent
 
 <img width="1440" height="1320" alt="image" src="https://github.com/user-attachments/assets/001493f9-307d-465c-b255-a78c05d5888d" />
 
+## Contact
+
+---
+
+Feel free to reach out for any questions or feedback about this project.
+
+📧 [shivanimaheshwara@gmail.com](mailto:shivanimaheshwara@gmail.com)
+
 
