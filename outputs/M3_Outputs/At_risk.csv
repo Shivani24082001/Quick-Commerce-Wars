@@ -1,0 +1,4 @@
+"platform","total_orders","at_risk_orders","satisfied_orders","at_risk_pct","satisfied_pct","avg_rating","avg_order_freq"
+"Blinkit",33424,15353,15472,45.93,46.29,3.23,12.11
+"JioMart",33127,15178,15435,45.82,46.59,3.25,12.11
+"Swiggy Instamart",33449,15288,15570,45.71,46.55,3.24,12.11

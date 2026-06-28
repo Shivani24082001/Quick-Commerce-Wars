@@ -1,0 +1,5 @@
+"refund_status","delay_status","customers","avg_order_freq","avg_rating","satisfaction_pct"
+"Had Refund","Had Delay",4525,12.12,1.67,0.00
+"No Refund","Had Delay",5017,12.12,4.57,85.63
+"No Refund","No Delay",8946,12.11,4.57,85.81
+"Had Refund","No Delay",8879,12.10,1.67,0.00

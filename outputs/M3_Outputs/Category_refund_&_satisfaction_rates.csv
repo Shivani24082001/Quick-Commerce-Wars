@@ -1,0 +1,7 @@
+"product_category","total_orders","refund_rate_pct","delay_rate_pct","satisfaction_pct","at_risk_pct","avg_rating","avg_order_freq"
+"Grocery",16737,46.67,13.82,45.74,46.67,3.22,12.07
+"Fruits & Vegetables",16632,46.25,13.77,46.07,46.25,3.23,12.09
+"Beverages",16536,45.65,13.52,46.73,45.65,3.25,12.12
+"Dairy",16857,45.62,13.72,46.47,45.62,3.24,12.13
+"Personal Care",16533,45.47,13.63,46.98,45.47,3.25,12.10
+"Snacks",16705,45.25,13.57,46.87,45.25,3.25,12.13

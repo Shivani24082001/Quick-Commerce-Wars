@@ -1,0 +1,19 @@
+product_category,platform,total_orders,refund_rate_pct,delay_rate_pct,satisfaction_pct,at_risk_pct,avg_rating,avg_order_freq
+Beverages,Blinkit,5593,45.5,13.7,46.5,45.5,3.242,12.112
+Beverages,JioMart,5411,46.1,13.1,46.5,46.1,3.23,12.154
+Beverages,Swiggy Instamart,5532,45.3,13.8,47.2,45.3,3.27,12.088
+Dairy,Blinkit,5643,46.2,13.5,45.9,46.2,3.221,12.12
+Dairy,JioMart,5586,45.2,13.4,46.9,45.2,3.261,12.132
+Dairy,Swiggy Instamart,5628,45.5,14.3,46.6,45.5,3.246,12.148
+Fruits & Vegetables,Blinkit,5576,47.1,13.3,45.4,47.1,3.208,12.095
+Fruits & Vegetables,JioMart,5546,45.3,14.5,47.3,45.3,3.27,12.102
+Fruits & Vegetables,Swiggy Instamart,5510,46.4,13.5,45.6,46.4,3.212,12.079
+Grocery,Blinkit,5586,46.5,13.1,45.8,46.5,3.22,12.028
+Grocery,JioMart,5605,46.8,14.5,45.5,46.8,3.22,12.128
+Grocery,Swiggy Instamart,5546,46.7,13.8,45.9,46.7,3.214,12.064
+Personal Care,Blinkit,5463,45.4,13.7,47.2,45.4,3.26,12.151
+Personal Care,JioMart,5436,46.1,13.6,46.2,46.1,3.228,12.074
+Personal Care,Swiggy Instamart,5634,45.0,13.5,47.5,45.0,3.27,12.089
+Snacks,Blinkit,5563,45.0,13.1,47.0,45.0,3.253,12.125
+Snacks,JioMart,5543,45.3,13.8,47.1,45.3,3.261,12.079
+Snacks,Swiggy Instamart,5599,45.5,13.9,46.5,45.5,3.248,12.179

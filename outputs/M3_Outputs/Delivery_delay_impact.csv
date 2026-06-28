@@ -1,0 +1,7 @@
+"platform","delay_status","customers","avg_order_freq","refund_rate_pct","avg_rating","at_risk_pct"
+"Blinkit","No Delay",8627,12.11,45.85,3.24,45.85
+"Blinkit","Had Delay",3528,12.09,46.46,3.22,46.46
+"JioMart","Had Delay",3525,12.15,45.87,3.24,45.87
+"JioMart","No Delay",8612,12.11,45.81,3.25,45.81
+"Swiggy Instamart","Had Delay",3602,12.12,45.88,3.23,45.88
+"Swiggy Instamart","No Delay",8661,12.11,45.68,3.25,45.68
