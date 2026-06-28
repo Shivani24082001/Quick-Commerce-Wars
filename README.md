@@ -8,29 +8,5 @@ Dataset: ~375K orders, 100K delivery records, 4K dark store locations, India cen
 
 Stack: PostgreSQL for aggregations and window functions · Python (Google Colab) for data cleaning, machine learning, and simulations · Tableau Public for dashboards.
 
-quick-commerce-wars/
-│
-├── README.md                        ← You are here
-├── .gitignore
-│
-├── sql/
-│   ├── m1_executive_kpis.sql        ← Market share, revenue, delivery, ratings
-│   ├── m2_dark_store_expansion.sql
-│   ├── m3_customer_retention.sql
-│   ├── m4_delivery_performance.sql
-│   ├── m5_segmentation_queries.sql
-│   ├── m6_category_analytics.sql
-│   └── m7_profitability_base.sql
-│
-├── python/
-│   ├── 00_data_cleaning.py          ← Run first — cleans all 4 raw CSVs
-│   ├── m1_executive_kpis.py         ← Verification + summary output
-│   ├── m2_expansion_scoring.py      ← Opportunity score, composite priority
-│   ├── m3_retention_analysis.py     ← Cross-dataset retention metrics
-│   ├── m4_delivery_correlation.py   ← Pearson correlation, outlier detection
-│   ├── m5_kmeans_segmentation.py    ← Elbow, silhouette, K-Means, PCA
-│   ├── m6_category_scorecard.py     ← Revenue vs risk cross-dataset join
-│   └── m7_profitability_sim.py      ← Margin model, scenarios, heatmap
-│
-└── data/
-    └── README.md                    ← Schema reference (raw files not committed)
+<img width="835" height="852" alt="image" src="https://github.com/user-attachments/assets/59636340-3c8e-436e-a379-f44ef5988fba" />
+
