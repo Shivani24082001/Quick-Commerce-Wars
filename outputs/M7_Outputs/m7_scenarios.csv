@@ -1,0 +1,16 @@
+scenario,company,description,revenue_m,total_cost_m,gross_margin_m,avg_margin_pct,margin_vs_baseline
+Baseline,Blinkit,Current state — no changes,76.59,50.65,25.94,-21.23,0.0
+Baseline,Swiggy Instamart,Current state — no changes,80.84,51.6,29.24,-18.59,0.0
+Baseline,Zepto,Current state — no changes,74.35,49.93,24.42,-22.97,0.0
+Scenario 1: Cut Discount 10%,Blinkit,Reduce discount rate from ~40% to ~30%,76.59,49.22,27.38,-19.73,1.5
+Scenario 1: Cut Discount 10%,Swiggy Instamart,Reduce discount rate from ~40% to ~30%,80.84,50.09,30.75,-17.09,1.5
+Scenario 1: Cut Discount 10%,Zepto,Reduce discount rate from ~40% to ~30%,74.35,48.54,25.81,-21.47,1.5
+Scenario 2: Grow AOV 15%,Blinkit,"Bundle deals, upsell to grow basket size",88.08,53.58,34.5,-8.55,12.68
+Scenario 2: Grow AOV 15%,Swiggy Instamart,"Bundle deals, upsell to grow basket size",92.97,54.69,38.28,-6.25,12.34
+Scenario 2: Grow AOV 15%,Zepto,"Bundle deals, upsell to grow basket size",85.51,52.77,32.73,-10.07,12.91
+Scenario 3: Reduce Delivery Cost ₹5/km,Blinkit,"Route optimisation, fleet efficiency",76.59,45.79,30.81,-6.04,15.19
+Scenario 3: Reduce Delivery Cost ₹5/km,Swiggy Instamart,"Route optimisation, fleet efficiency",80.84,46.75,34.09,-3.81,14.79
+Scenario 3: Reduce Delivery Cost ₹5/km,Zepto,"Route optimisation, fleet efficiency",74.35,45.09,29.26,-7.51,15.46
+Scenario 4: Combined (S2 + S3),Blinkit,Grow AOV 15% AND reduce delivery cost,88.08,48.72,39.36,4.65,25.89
+Scenario 4: Combined (S2 + S3),Swiggy Instamart,Grow AOV 15% AND reduce delivery cost,92.97,49.84,43.13,6.61,25.2
+Scenario 4: Combined (S2 + S3),Zepto,Grow AOV 15% AND reduce delivery cost,85.51,47.94,37.57,3.38,26.35

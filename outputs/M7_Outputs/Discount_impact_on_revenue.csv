@@ -1,0 +1,7 @@
+"company","order_type","orders","revenue_m","aov","avg_distance","pct_of_orders"
+"Blinkit","Discounted",50350,38.33,761.24,7.77,40.13
+"Blinkit","Full Price",75114,38.27,509.43,7.74,59.87
+"Swiggy Instamart","Discounted",49667,40.09,807.11,7.75,39.70
+"Swiggy Instamart","Full Price",75452,40.76,540.16,7.75,60.30
+"Zepto","Discounted",50266,37.25,741.04,7.73,40.19
+"Zepto","Full Price",74797,37.10,496.05,7.74,59.81

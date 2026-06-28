@@ -1,0 +1,16 @@
+company,item,value,type
+Blinkit,Revenue,76.59,positive
+Blinkit,Delivery Cost,-31.11,negative
+Blinkit,Ops Cost,-13.79,negative
+Blinkit,Discount Cost,-5.75,negative
+Blinkit,Gross Margin,25.94,margin
+Swiggy Instamart,Revenue,80.84,positive
+Swiggy Instamart,Delivery Cost,-31.04,negative
+Swiggy Instamart,Ops Cost,-14.55,negative
+Swiggy Instamart,Discount Cost,-6.01,negative
+Swiggy Instamart,Gross Margin,29.24,margin
+Zepto,Revenue,74.35,positive
+Zepto,Delivery Cost,-30.96,negative
+Zepto,Ops Cost,-13.38,negative
+Zepto,Discount Cost,-5.59,negative
+Zepto,Gross Margin,24.42,margin

@@ -1,0 +1,4 @@
+"company","total_orders","total_revenue_m","avg_order_value","avg_distance_km","discount_rate_pct","disc_aov","full_aov","total_distance_km"
+"Swiggy Instamart",125119,80.84,646.13,7.75,39.70,807.11,540.16,969939.72
+"Blinkit",125464,76.59,610.49,7.75,40.13,761.24,509.43,972290.70
+"Zepto",125063,74.35,594.52,7.74,40.19,741.04,496.05,967446.72

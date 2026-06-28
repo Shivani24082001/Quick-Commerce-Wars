@@ -1,0 +1,4 @@
+company,current_aov,breakeven_aov,aov_gap,avg_distance_km,discount_rate_pct,is_profitable
+Blinkit,610.49,326.38,284.1,7.75,40.13,Yes
+Swiggy Instamart,646.13,326.21,319.92,7.75,39.7,Yes
+Zepto,594.52,325.84,268.68,7.74,40.19,Yes

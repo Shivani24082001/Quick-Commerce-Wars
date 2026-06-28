@@ -1,0 +1,13 @@
+"company","value_bucket","orders","pct_of_company","avg_order_value","discount_rate_pct","avg_distance_km"
+"Blinkit","Budget (<₹200)",20883,16.64,88.24,33.09,7.72
+"Blinkit","Mid (₹200-500)",32710,26.07,360.54,26.78,7.75
+"Blinkit","Premium (₹500-1k)",52140,41.56,722.82,37.55,7.75
+"Blinkit","High-Value (>₹1k)",19731,15.73,1280.74,76.53,7.79
+"Swiggy Instamart","Budget (<₹200)",20065,16.04,87.46,33.27,7.73
+"Swiggy Instamart","Mid (₹200-500)",30118,24.07,360.51,26.23,7.75
+"Swiggy Instamart","Premium (₹500-1k)",51178,40.90,727.88,35.27,7.76
+"Swiggy Instamart","High-Value (>₹1k)",23758,18.99,1303.93,71.73,7.77
+"Zepto","Budget (<₹200)",21352,17.07,89.09,32.73,7.72
+"Zepto","Mid (₹200-500)",33987,27.18,360.49,27.06,7.75
+"Zepto","Premium (₹500-1k)",51557,41.22,719.84,38.65,7.75
+"Zepto","High-Value (>₹1k)",18167,14.53,1270.72,77.92,7.69

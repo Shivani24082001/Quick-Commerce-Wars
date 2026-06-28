@@ -1,0 +1,22 @@
+"product_category","company","orders","aov","avg_distance","discount_rate_pct","est_margin_per_order"
+"Fruits & Vegetables","Swiggy Instamart",17891,652.90,7.75,40.11,248.25
+"Personal Care","Swiggy Instamart",17626,648.07,7.71,39.41,246.52
+"Household","Swiggy Instamart",17893,647.41,7.78,39.83,243.40
+"Groceries","Swiggy Instamart",18016,645.51,7.78,39.98,241.55
+"Beverages","Swiggy Instamart",17650,644.90,7.77,40.14,241.27
+"Dairy","Swiggy Instamart",18194,643.61,7.77,39.29,241.20
+"Snacks","Swiggy Instamart",17849,640.55,7.71,39.13,240.86
+"Dairy","Blinkit",17887,615.11,7.71,40.52,220.16
+"Beverages","Blinkit",17973,612.97,7.75,40.08,217.65
+"Snacks","Blinkit",17945,610.69,7.73,39.79,217.05
+"Fruits & Vegetables","Blinkit",17853,608.39,7.70,41.04,215.10
+"Household","Blinkit",17915,609.24,7.78,39.62,214.35
+"Groceries","Blinkit",18026,610.54,7.82,39.92,214.00
+"Personal Care","Blinkit",17865,606.44,7.76,39.96,212.73
+"Household","Zepto",17717,600.69,7.74,40.26,208.73
+"Groceries","Zepto",17812,594.24,7.73,39.74,204.56
+"Snacks","Zepto",17942,594.58,7.73,40.32,204.13
+"Beverages","Zepto",17840,592.72,7.72,40.02,203.25
+"Fruits & Vegetables","Zepto",17682,593.74,7.74,40.37,203.24
+"Personal Care","Zepto",18013,592.70,7.73,40.23,202.80
+"Dairy","Zepto",18057,593.02,7.75,40.40,202.20
