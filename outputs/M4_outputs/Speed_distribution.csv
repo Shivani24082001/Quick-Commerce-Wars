@@ -1,0 +1,12 @@
+"company","delivery_speed_bucket","orders","pct_of_company"
+"Blinkit","Express (<10 min)",15282,12.18
+"Blinkit","Fast (10-20 min)",95261,75.93
+"Blinkit","Standard (20-30 min)",14106,11.24
+"Blinkit","Slow (>30 min)",815,0.65
+"Swiggy Instamart","Express (<10 min)",11048,8.83
+"Swiggy Instamart","Fast (10-20 min)",94430,75.47
+"Swiggy Instamart","Standard (20-30 min)",17892,14.30
+"Swiggy Instamart","Slow (>30 min)",1749,1.40
+"Zepto","Express (<10 min)",76149,60.89
+"Zepto","Fast (10-20 min)",43793,35.02
+"Zepto","Standard (20-30 min)",5121,4.09

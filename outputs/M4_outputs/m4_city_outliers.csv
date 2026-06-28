@@ -1,0 +1,40 @@
+city,avg_delivery,order_count,z_score,company,is_outlier
+Amritsar,14.194072269753399,9935,-0.19,Blinkit,False
+Bengluru,15.20049994994494,9989,0.03,Blinkit,False
+Chennai,14.132035222672066,9880,-0.21,Blinkit,False
+Delhi,5.766289409368635,9820,-2.1,Blinkit,False
+Gurgaon,14.197877976190474,10080,-0.19,Blinkit,False
+Haridwar,26.13779576741319,9734,2.51,Blinkit,True
+Hyderabad,14.117875850858479,9843,-0.21,Blinkit,False
+Jaipur,19.150932972648032,9981,0.93,Blinkit,False
+Kolkata,14.130960423745751,10006,-0.21,Blinkit,False
+Mumbai,16.129572517552656,9970,0.24,Blinkit,False
+Noida,14.158842675941079,9776,-0.2,Blinkit,False
+Pune,14.162,9909,-0.2,Blinkit,False
+Unknown,14.15804097232839,6541,-0.2,Blinkit,False
+Amritsar,15.179140930138917,9934,-0.18,Swiggy Instamart,False
+Bengluru,16.100217356042172,9864,0.02,Swiggy Instamart,False
+Chennai,15.132661145194275,9780,-0.19,Swiggy Instamart,False
+Delhi,6.230529285932566,9817,-2.16,Swiggy Instamart,False
+Gurgaon,15.096476161677248,9921,-0.2,Swiggy Instamart,False
+Haridwar,27.17590467516697,9882,2.47,Swiggy Instamart,True
+Hyderabad,15.127667098833149,10027,-0.19,Swiggy Instamart,False
+Jaipur,20.162191241628026,9705,0.92,Swiggy Instamart,False
+Kolkata,15.169636199819804,9989,-0.18,Swiggy Instamart,False
+Mumbai,17.153613185471563,9829,0.26,Swiggy Instamart,False
+Noida,15.168593621088641,9939,-0.18,Swiggy Instamart,False
+Pune,15.163838585078269,9838,-0.18,Swiggy Instamart,False
+Unknown,15.132141340612678,6594,-0.19,Swiggy Instamart,False
+Amritsar,8.318597100265468,9794,-0.34,Zepto,False
+Bengluru,9.197524563866052,9974,-0.09,Zepto,False
+Chennai,8.280690630048467,9904,-0.35,Zepto,False
+Delhi,5.0,9960,-1.25,Zepto,False
+Gurgaon,8.308247531806614,9825,-0.34,Zepto,False
+Haridwar,20.13529828456105,9910,2.91,Zepto,True
+Hyderabad,8.32261428427521,9927,-0.34,Zepto,False
+Jaipur,13.135453512396694,9680,0.99,Zepto,False
+Kolkata,8.303587343575135,9829,-0.34,Zepto,False
+Mumbai,10.147186536901865,9864,0.17,Zepto,False
+Noida,8.29360587709719,10073,-0.34,Zepto,False
+Pune,8.352163505426514,9859,-0.33,Zepto,False
+Unknown,8.255814356435645,6464,-0.35,Zepto,False

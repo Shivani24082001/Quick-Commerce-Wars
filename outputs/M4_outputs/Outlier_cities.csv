@@ -1,0 +1,13 @@
+"company","city","orders","avg_delivery_min","avg_distance_km","avg_efficiency","slow_orders","slow_order_pct","avg_rating"
+"Swiggy Instamart","Haridwar",9882,27.18,7.81,0.276,1744,17.65,3.30
+"Blinkit","Haridwar",9734,26.14,7.73,0.283,812,8.34,3.57
+"Blinkit","Mumbai",9970,16.13,7.68,0.448,0,0.00,3.72
+"Swiggy Instamart","Delhi",9817,6.23,7.73,1.183,0,0.00,3.36
+"Swiggy Instamart","Hyderabad",10027,15.13,7.70,0.478,0,0.00,2.74
+"Swiggy Instamart","Mumbai",9829,17.15,7.77,0.428,0,0.00,3.45
+"Zepto","Delhi",9960,5.00,7.71,1.542,0,0.00,3.29
+"Zepto","Haridwar",9910,20.14,7.73,0.365,0,0.00,3.20
+"Zepto","Hyderabad",9927,8.32,7.76,0.871,0,0.00,2.66
+"Blinkit","Delhi",9820,5.77,7.70,1.288,0,0.00,3.65
+"Zepto","Mumbai",9864,10.15,7.71,0.706,0,0.00,3.38
+"Blinkit","Hyderabad",9843,14.12,7.68,0.510,0,0.00,3.02

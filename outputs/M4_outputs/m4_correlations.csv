@@ -1,0 +1,4 @@
+company,pearson_r,r_squared,p_value,significant,distance_explains
+Blinkit,0.476,0.226,0.0,Yes,22.6% of delivery time variance
+Swiggy Instamart,0.473,0.223,0.0,Yes,22.3% of delivery time variance
+Zepto,0.503,0.253,0.0,Yes,25.3% of delivery time variance

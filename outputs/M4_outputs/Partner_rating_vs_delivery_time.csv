@@ -1,0 +1,13 @@
+"company","partner_tier","orders","avg_delivery_min","avg_efficiency","avg_customer_rating","slow_orders","slow_order_pct"
+"Blinkit","Elite (4.5-5.0)",24669,15.01,0.538,3.56,167,0.68
+"Blinkit","Good (4.0-4.4)",22524,15.02,0.543,3.56,153,0.68
+"Blinkit","Average (3.0-3.9)",58022,15.08,0.538,3.56,368,0.63
+"Blinkit","Poor (<3.0)",20249,15.15,0.533,3.55,124,0.61
+"Swiggy Instamart","Elite (4.5-5.0)",24365,16.05,0.504,3.29,349,1.43
+"Swiggy Instamart","Good (4.0-4.4)",22403,15.98,0.504,3.28,314,1.40
+"Swiggy Instamart","Average (3.0-3.9)",58254,16.04,0.503,3.28,824,1.41
+"Swiggy Instamart","Poor (<3.0)",20097,15.95,0.508,3.30,257,1.28
+"Zepto","Elite (4.5-5.0)",24490,9.56,0.840,3.19,0,0.00
+"Zepto","Good (4.0-4.4)",22463,9.59,0.838,3.20,0,0.00
+"Zepto","Average (3.0-3.9)",58026,9.57,0.838,3.21,0,0.00
+"Zepto","Poor (<3.0)",20084,9.58,0.841,3.20,0,0.00

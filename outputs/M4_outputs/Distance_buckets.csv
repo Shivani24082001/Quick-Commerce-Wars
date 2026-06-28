@@ -1,0 +1,13 @@
+"company","distance_bucket","orders","avg_delivery_min","avg_efficiency","avg_rating","slow_order_pct"
+"Blinkit","Nearby (<3 km)",21638,11.67,0.165,3.56,0.00
+"Blinkit","Short (3-7 km)",34598,13.48,0.415,3.56,0.00
+"Blinkit","Medium (7-12 km)",43190,16.03,0.665,3.56,0.13
+"Blinkit","Long (>12 km)",26038,18.39,0.802,3.55,2.90
+"Swiggy Instamart","Nearby (<3 km)",21608,12.59,0.155,3.28,0.00
+"Swiggy Instamart","Short (3-7 km)",34416,14.41,0.390,3.29,0.00
+"Swiggy Instamart","Medium (7-12 km)",43095,16.98,0.621,3.29,0.93
+"Swiggy Instamart","Long (>12 km)",26000,19.40,0.753,3.28,5.17
+"Zepto","Nearby (<3 km)",21536,6.65,0.293,3.20,0.00
+"Zepto","Short (3-7 km)",34741,8.00,0.700,3.20,0.00
+"Zepto","Medium (7-12 km)",42963,10.46,1.009,3.20,0.00
+"Zepto","Long (>12 km)",25823,12.64,1.198,3.20,0.00
