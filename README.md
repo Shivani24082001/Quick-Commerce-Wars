@@ -23,5 +23,8 @@ The analysis covers market share, dark store expansion strategy, customer retent
 - `dark_stores` — ~4,000 store locations with lat/lng across Blinkit, Zepto, Swiggy Instamart
 - `india_census_urban` — ~640 district-level urban demographic records (Census 2011)
 
-![Project Structure](https://img.shields.io/badge/Project_Overview-0066CC?style=for-the-badge)
+## <span style="color:#0066CC">Project Structure</span>
+
+<img width="1440" height="1320" alt="image" src="https://github.com/user-attachments/assets/001493f9-307d-465c-b255-a78c05d5888d" />
+
 
