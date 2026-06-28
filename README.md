@@ -8,3 +8,18 @@
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+## <span style="color:#0066CC">Project Overview</span>
+
+---
+
+This project is a 7-module end-to-end business analytics study comparing India's three largest quick commerce platforms — **Blinkit**, **Zepto**, and **Swiggy Instamart** — across 375,000+ orders.
+
+The analysis covers market share, dark store expansion strategy, customer retention, delivery performance, customer segmentation, product category analytics, and profitability simulation. The project follows the complete data analyst workflow — raw CSV data is cleaned in Python (Google Colab), loaded into PostgreSQL for aggregation and window function analysis, enriched with machine learning in Python, and visualised in Tableau Public dashboards.
+
+**Datasets used:**
+- `qc_main` — ~375,000 orders (company, city, AOV, delivery time, distance, ratings, category)
+- `ecommerce_analytics` — ~100,000 customer records (refund rate, satisfaction, order frequency)
+- `dark_stores` — ~4,000 store locations with lat/lng across Blinkit, Zepto, Swiggy Instamart
+- `india_census_urban` — ~640 district-level urban demographic records (Census 2011)
+
