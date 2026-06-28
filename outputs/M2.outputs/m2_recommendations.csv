@@ -1,0 +1,31 @@
+city,urban_population,literacy_rate,Blinkit,Swiggy Instamart,Zepto,opportunity_score,company,rank
+Tirunelveli,1520229.0,77.18,0.0,1.0,0.0,1173313,Blinkit,1
+Tiruppur,1521111.0,75.55,0.0,2.0,0.0,1149199,Blinkit,2
+Barddhaman,3078299.0,73.06,1.0,0.0,0.0,1124503,Blinkit,3
+Kollam,1187158.0,84.82,0.0,3.0,0.0,1006947,Blinkit,4
+Kozhikode,2072572.0,85.21,1.0,5.0,0.0,883019,Blinkit,5
+Hugli,2128499.0,79.34,1.0,0.0,0.0,844376,Blinkit,6
+Madurai,1846801.0,80.43,1.0,3.0,4.0,742691,Blinkit,7
+Thanjavur,851359.0,80.58,0.0,2.0,0.0,686025,Blinkit,8
+Vellore,1701987.0,75.85,1.0,2.0,2.0,645479,Blinkit,9
+Salem,1774122.0,71.97,1.0,2.0,0.0,638418,Blinkit,10
+Barddhaman,3078299.0,73.06,1.0,0.0,0.0,2249005,Swiggy Instamart,1
+Hugli,2128499.0,79.34,1.0,0.0,0.0,1688751,Swiggy Instamart,2
+Haora,3074144.0,76.41,5.0,1.0,0.0,1174477,Swiggy Instamart,3
+Dhanbad,1560394.0,68.76,3.0,0.0,0.0,1072927,Swiggy Instamart,4
+Solapur,1399091.0,73.47,3.0,0.0,0.0,1027912,Swiggy Instamart,5
+Jalgaon,1342711.0,75.54,1.0,0.0,0.0,1014284,Swiggy Instamart,6
+Bhavnagar,1182401.0,72.51,2.0,0.0,0.0,857359,Swiggy Instamart,7
+Muzaffarnagar,1191312.0,60.6,1.0,0.0,0.0,721935,Swiggy Instamart,8
+Jamnagar,971065.0,70.11,1.0,0.0,0.0,680814,Swiggy Instamart,9
+Junagadh,906412.0,73.33,1.0,0.0,0.0,664672,Swiggy Instamart,10
+Haora,3074144.0,76.41,5.0,1.0,0.0,2348953,Zepto,1
+Barddhaman,3078299.0,73.06,1.0,0.0,0.0,2249005,Zepto,2
+Patna,2514590.0,70.36,13.0,6.0,0.0,1769266,Zepto,3
+Kozhikode,2072572.0,85.21,1.0,5.0,0.0,1766039,Zepto,4
+Hugli,2128499.0,79.34,1.0,0.0,0.0,1688751,Zepto,5
+Vadodara,2065771.0,80.57,15.0,5.0,0.0,1664392,Zepto,6
+Thiruvananthapuram,1771596.0,85.68,2.0,11.0,0.0,1517903,Zepto,7
+Visakhapatnam,2035922.0,73.48,2.0,3.0,0.0,1495995,Zepto,8
+Bhopal,1917051.0,73.34,17.0,8.0,0.0,1405965,Zepto,9
+Salem,1774122.0,71.97,1.0,2.0,0.0,1276836,Zepto,10

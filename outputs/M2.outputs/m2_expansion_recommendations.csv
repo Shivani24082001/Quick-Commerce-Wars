@@ -1,0 +1,31 @@
+rank,company,city,urban_population,literacy_rate,current_stores,stores_per_million,sig_whitespace,competitive_gap,opportunity_score,expansion_priority
+1,Blinkit,Tiruppur,1521111.0,75.55,0.0,0.0,1.0,2.0,324127,0.903
+2,Blinkit,Tirunelveli,1520229.0,77.18,0.0,0.0,1.0,1.0,305996,0.879
+3,Blinkit,Kollam,1187158.0,84.82,0.0,0.0,1.0,3.0,248265,0.81
+4,Blinkit,Thanjavur,851359.0,80.58,0.0,0.0,1.0,2.0,172571,0.715
+5,Blinkit,Palakkad,676810.0,82.83,0.0,0.0,1.0,3.0,128333,0.661
+6,Blinkit,Davanagere,629010.0,74.68,0.0,0.0,1.0,2.0,100635,0.625
+7,Blinkit,Karur,434517.0,76.62,0.0,0.0,1.0,2.0,90947,0.613
+8,Blinkit,Barddhaman,3078299.0,73.06,1.0,0.32,0.0,0.0,240866,0.594
+9,Blinkit,Panchkula,313230.0,77.22,0.0,0.0,1.0,2.0,54790,0.568
+10,Blinkit,Dibrugarh,243730.0,81.63,0.0,0.0,1.0,2.0,44450,0.555
+1,Swiggy Instamart,Barddhaman,3078299.0,73.06,0.0,0.0,1.0,1.0,481733,0.902
+2,Swiggy Instamart,Hugli,2128499.0,79.34,0.0,0.0,1.0,1.0,401415,0.834
+3,Swiggy Instamart,Jalgaon,1342711.0,75.54,0.0,0.0,1.0,1.0,210812,0.674
+4,Swiggy Instamart,Solapur,1399091.0,73.47,0.0,0.0,1.0,3.0,205427,0.673
+5,Swiggy Instamart,Dhanbad,1560394.0,68.76,0.0,0.0,1.0,3.0,203557,0.671
+6,Swiggy Instamart,Bhavnagar,1182401.0,72.51,0.0,0.0,1.0,2.0,171294,0.642
+7,Swiggy Instamart,Chandrapur,775378.0,79.47,0.0,0.0,1.0,1.0,143410,0.617
+8,Swiggy Instamart,Jamnagar,971065.0,70.11,0.0,0.0,1.0,1.0,140667,0.615
+9,Swiggy Instamart,Jammu,765013.0,80.03,0.0,0.0,1.0,8.0,123973,0.612
+10,Swiggy Instamart,Junagadh,906412.0,73.33,0.0,0.0,1.0,1.0,131718,0.607
+1,Zepto,Haora,3074144.0,76.41,0.0,0.0,1.0,5.0,511872,0.919
+2,Zepto,Barddhaman,3078299.0,73.06,0.0,0.0,1.0,1.0,481733,0.88
+3,Zepto,Vadodara,2065771.0,80.57,0.0,0.0,1.0,15.0,370224,0.844
+4,Zepto,Thiruvananthapuram,1771596.0,85.68,0.0,0.0,1.0,11.0,382916,0.839
+5,Zepto,Kozhikode,2072572.0,85.21,0.0,0.0,1.0,5.0,393676,0.825
+6,Zepto,Hugli,2128499.0,79.34,0.0,0.0,1.0,1.0,401415,0.817
+7,Zepto,Visakhapatnam,2035922.0,73.48,0.0,0.0,1.0,3.0,380351,0.807
+8,Zepto,Bhopal,1917051.0,73.34,0.0,0.0,1.0,17.0,299775,0.796
+9,Zepto,Patna,2514590.0,70.36,0.0,0.0,1.0,13.0,302143,0.783
+10,Zepto,Salem,1774122.0,71.97,0.0,0.0,1.0,2.0,333900,0.767
