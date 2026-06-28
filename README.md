@@ -8,8 +8,6 @@ Dataset: ~375K orders, 100K delivery records, 4K dark store locations, India cen
 
 Stack: PostgreSQL for aggregations and window functions · Python (Google Colab) for data cleaning, machine learning, and simulations · Tableau Public for dashboards.
 
-Repository Structure
-
 quick-commerce-wars/
 │
 ├── README.md                        ← You are here
