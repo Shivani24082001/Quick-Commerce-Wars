@@ -1,0 +1,37 @@
+"company","city","orders","aov","avg_delivery_min","avg_rating","city_rank"
+"Blinkit","Gurgaon",10080,732.17,14.20,3.55,1
+"Blinkit","Kolkata",10006,600.89,14.13,3.54,2
+"Blinkit","Bengluru",9989,623.49,15.20,3.95,3
+"Blinkit","Jaipur",9981,488.72,19.15,3.45,4
+"Blinkit","Mumbai",9970,629.17,16.13,3.72,5
+"Blinkit","Amritsar",9935,605.36,14.19,3.57,6
+"Blinkit","Pune",9909,598.88,14.16,3.55,7
+"Blinkit","Chennai",9880,601.19,14.13,3.56,8
+"Blinkit","Hyderabad",9843,605.26,14.12,3.02,9
+"Blinkit","Delhi",9820,645.69,5.77,3.65,10
+"Blinkit","Noida",9776,729.71,14.16,3.57,11
+"Blinkit","Haridwar",9734,470.17,26.14,3.57,12
+"Swiggy Instamart","Hyderabad",10027,639.92,15.13,2.74,1
+"Swiggy Instamart","Kolkata",9989,640.70,15.17,3.29,2
+"Swiggy Instamart","Noida",9939,760.51,15.17,3.27,3
+"Swiggy Instamart","Amritsar",9934,638.39,15.18,3.29,4
+"Swiggy Instamart","Gurgaon",9921,772.94,15.10,3.28,5
+"Swiggy Instamart","Haridwar",9882,513.66,27.18,3.30,6
+"Swiggy Instamart","Bengluru",9864,657.78,16.10,3.71,7
+"Swiggy Instamart","Pune",9838,633.41,15.16,3.26,8
+"Swiggy Instamart","Mumbai",9829,663.70,17.15,3.45,9
+"Swiggy Instamart","Delhi",9817,674.63,6.23,3.36,10
+"Swiggy Instamart","Chennai",9780,629.98,15.13,3.27,11
+"Swiggy Instamart","Jaipur",9705,529.79,20.16,3.20,12
+"Zepto","Noida",10073,704.62,8.29,3.21,1
+"Zepto","Bengluru",9974,606.99,9.20,3.61,2
+"Zepto","Delhi",9960,632.57,5.00,3.29,3
+"Zepto","Hyderabad",9927,584.73,8.32,2.66,4
+"Zepto","Haridwar",9910,455.17,20.14,3.20,5
+"Zepto","Chennai",9904,581.91,8.28,3.18,6
+"Zepto","Mumbai",9864,614.25,10.15,3.38,7
+"Zepto","Pune",9859,583.80,8.35,3.20,8
+"Zepto","Kolkata",9829,590.53,8.30,3.18,9
+"Zepto","Gurgaon",9825,714.22,8.31,3.21,10
+"Zepto","Amritsar",9794,584.82,8.32,3.19,11
+"Zepto","Jaipur",9680,478.42,13.14,3.12,12
